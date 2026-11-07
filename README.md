@@ -8,9 +8,9 @@ Built for **THE OUTPOST – Round 1: The Frontend Mission** (Frontend Arena), a 
 
 | | |
 |---|---|
-| **Live demo** | `<add your Netlify / Vercel link>` |
-| **Source code** | `<add your GitHub repository link>` |
-| **Author** | `<your name>` |
+| **Live demo** | `grantlyscholarshipapp1.netlify.app` |
+| **Source code** | `https://github.com/Chandhinibaskar/frontendarena1.git` |
+| **Author** | `Chandhinibaskar` |
 
 ---
 
